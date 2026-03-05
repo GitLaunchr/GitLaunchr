@@ -91,5 +91,3 @@ All splits are automatic and on-chain via the FeeSplitter.
 - **Supabase Postgres** (users + launches)
 - **Viem** (server-side deploy of FeeSplitter on Base)
 - **Bankr Agent API** (prompt + job polling)
-- **CSS Modules** (pixel UI, scanlines, HUD panels)
-
